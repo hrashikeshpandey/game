@@ -1,0 +1,45 @@
+.background{
+
+height: 100vh;
+
+
+}
+
+body{
+  margin: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.logo{
+  height: 50px;
+  width: 500px;
+  padding-left:  400px;
+  padding-right: 380px;
+  padding-top: 5px;
+  background-color: black;
+}
+.game-button {
+  background: black;
+
+  border: none;
+  color: #D21312;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 36px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+  font-weight: bold;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  position: relative;
+  left: 535px;
+  top: 200px;
+  height: 140px;
+  width:200px;
+  font-family: 'Sigmar', cursive;
+}
+.game-button:hover{
+  background-color: #2C3333;
+}

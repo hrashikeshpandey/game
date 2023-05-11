@@ -1,0 +1,49 @@
+.con{
+  position: relative;
+  top: 130px;
+  left: 5%;
+}
+.con-1{
+  position: relative;
+  top: 230px;
+  left: 5%;
+}
+.logo-box{
+  position: fixed;
+}
+.logo_h{
+  height: 60px;
+  /* width: 500px; */
+  padding-left:  460px;
+  padding-right: 437px;
+  padding-top: 5px;
+  background-color: black;
+}
+.one{
+  height: 250px;
+  width: 180px;
+  border-top-left-radius: 5%;
+  border-bottom-left-radius: 5%;
+  border-bottom-right-radius: 5%;
+  border-top-right-radius: 5%;
+  margin-right: 150px;
+
+}
+.games{
+  margin-left: 200px;
+  position: relative;
+  /* left: 25%; */
+  top: 50px;
+
+}
+marquee{
+  color: red;
+  background-color: black;
+position: relative;
+bottom: 4px;
+}
+.one:hover{
+  border-style: solid;
+  border-color: blue;
+  border-width:  4px;
+}
